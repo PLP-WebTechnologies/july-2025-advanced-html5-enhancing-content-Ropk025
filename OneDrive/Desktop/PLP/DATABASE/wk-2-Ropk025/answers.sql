@@ -6,7 +6,7 @@ USE salesdb;
 
 -- Step 1: Create a table named 'student' with three columns
 CREATE TABLE student (
-    id INT PRIMARY KEY,              -- Unique student ID
+    id INT PRIMARY KEY,              -- Unique student IDgit status
     fullName VARCHAR(100),           -- Student's full name
     age INT                          -- Student's age
 );
